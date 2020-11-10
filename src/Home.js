@@ -64,8 +64,8 @@ class Home extends React.Component {
   }
 
   loadUploads(artist, index) {
-    const endpoint = 'https://youtube.googleapis.com/youtube/v3/playlists?part=snippet%2CcontentDetails%2Cplayer'
-    const apiKey = 'AIzaSyC8nGleyOpmZm6ylEMs-GAlT4iqHsG_EKM'
+    const endpoint = api.url + 'playlists?part=snippet%2CcontentDetails%2Cplayer'
+    const apiKey = api.key
 
     fetch(endpoint
       + '&id=' + artist.uploads
