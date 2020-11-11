@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tuni-board/static/css/main.b79fea08.chunk.css",
-    "main.js": "/tuni-board/static/js/main.1a489b3e.chunk.js",
-    "main.js.map": "/tuni-board/static/js/main.1a489b3e.chunk.js.map",
+    "main.js": "/tuni-board/static/js/main.b5a3f6af.chunk.js",
+    "main.js.map": "/tuni-board/static/js/main.b5a3f6af.chunk.js.map",
     "runtime-main.js": "/tuni-board/static/js/runtime-main.dfe89b04.js",
     "runtime-main.js.map": "/tuni-board/static/js/runtime-main.dfe89b04.js.map",
     "static/css/2.0e401ad8.chunk.css": "/tuni-board/static/css/2.0e401ad8.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.0e401ad8.chunk.css",
     "static/js/2.adaab4b3.chunk.js",
     "static/css/main.b79fea08.chunk.css",
-    "static/js/main.1a489b3e.chunk.js"
+    "static/js/main.b5a3f6af.chunk.js"
   ]
 }
