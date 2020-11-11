@@ -21,7 +21,10 @@ function ArtistCard({artist}) {
         </div>
       </div>
       <div className="col-sm-12 col-md d-flex flex-column justify-content-center">
-        <div class="embed-responsive embed-responsive-16by9" dangerouslySetInnerHTML={{__html: artist.player}}></div>
+        <div className="embed-responsive embed-responsive-16by9" dangerouslySetInnerHTML={{
+          __html: artist.player?.slice(0, 42) + 's' + artist.player?.slice(42, artist.player.length)
+          }}>
+        </div>
       </div>
     </div>
   )

@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Home/>
-      <footer>by medihebfaiza</footer>
+      <footer className="text-center p-5">Made with ❤️ by <a href="https://github.com/medihebfaiza/">medihebfaiza</a></footer>
     </div>
   );
 }
