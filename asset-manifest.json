@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tuni-board/static/css/main.b79fea08.chunk.css",
+    "main.js": "/tuni-board/static/js/main.1a489b3e.chunk.js",
+    "main.js.map": "/tuni-board/static/js/main.1a489b3e.chunk.js.map",
+    "runtime-main.js": "/tuni-board/static/js/runtime-main.dfe89b04.js",
+    "runtime-main.js.map": "/tuni-board/static/js/runtime-main.dfe89b04.js.map",
+    "static/css/2.0e401ad8.chunk.css": "/tuni-board/static/css/2.0e401ad8.chunk.css",
+    "static/js/2.adaab4b3.chunk.js": "/tuni-board/static/js/2.adaab4b3.chunk.js",
+    "static/js/2.adaab4b3.chunk.js.map": "/tuni-board/static/js/2.adaab4b3.chunk.js.map",
+    "static/js/3.d6be49d5.chunk.js": "/tuni-board/static/js/3.d6be49d5.chunk.js",
+    "static/js/3.d6be49d5.chunk.js.map": "/tuni-board/static/js/3.d6be49d5.chunk.js.map",
+    "index.html": "/tuni-board/index.html",
+    "static/css/2.0e401ad8.chunk.css.map": "/tuni-board/static/css/2.0e401ad8.chunk.css.map",
+    "static/css/main.b79fea08.chunk.css.map": "/tuni-board/static/css/main.b79fea08.chunk.css.map",
+    "static/js/2.adaab4b3.chunk.js.LICENSE.txt": "/tuni-board/static/js/2.adaab4b3.chunk.js.LICENSE.txt",
+    "static/media/balti.156d40ad.png": "/tuni-board/static/media/balti.156d40ad.png",
+    "static/media/bizerte.c072a979.svg": "/tuni-board/static/media/bizerte.c072a979.svg",
+    "static/media/brand.ccd1d1a2.svg": "/tuni-board/static/media/brand.ccd1d1a2.svg",
+    "static/media/gga.3e86e52a.png": "/tuni-board/static/media/gga.3e86e52a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe89b04.js",
+    "static/css/2.0e401ad8.chunk.css",
+    "static/js/2.adaab4b3.chunk.js",
+    "static/css/main.b79fea08.chunk.css",
+    "static/js/main.1a489b3e.chunk.js"
+  ]
+}
